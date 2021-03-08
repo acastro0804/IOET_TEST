@@ -8,6 +8,8 @@ java -jar "ACME.jar"
 
 the file that has data about employee y schedule by pay, should be n
 the "c:/app/" folder. The name file should be "scheludeWorked.txt".
+IMPORTANT!!!
+"c:/app/scheludeWorked.txt"
 
 Semantic of programation: 
 	Format Camel
